@@ -8,11 +8,7 @@ function App() {
   //let counter=15
   const addValue=()=>{
     if(counter<20)setcounter(prevCounter=>prevCounter+1);
-    if(counter<20)setcounter(prevCounter=>prevCounter+1);
-    if(counter<20)setcounter(prevCounter=>prevCounter+1);
-    if(counter<20)setcounter(prevCounter=>prevCounter+1);
-
-    //console.log("Clicked",counter);}
+    //console.log("Clicked",counter);
   }
   const removeVale=()=>
   {
